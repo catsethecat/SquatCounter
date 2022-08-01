@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
   "id": "SquatCounter",
   "name": "SquatCounter",
-  "author": "",
-  "version": "0.0.1",
+  "author": "Catse",
+  "version": "1.1.0",
   "description": "",
   "gameVersion": "1.11.1",
   "dependsOn": {
